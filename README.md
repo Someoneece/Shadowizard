@@ -1,9 +1,9 @@
-# Shadowizard
+# Shadowizard5
  Get perfect shadows every time for the non-designer.
 
 # Installation
 
-`npm i shadowizard --save`
+`npm i shadowizard5 --save`
 
 Then...
 
